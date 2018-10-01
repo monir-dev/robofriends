@@ -4,6 +4,7 @@ import ReactDOM from 'react-dom';
 import 'tachyons';
 import registerServiceWorker from './registerServiceWorker';
 import App from './App';
+import './index.css';
 
 
 // componentDidMount()
